@@ -10,4 +10,4 @@ length_for_pass = 8
 
 password = ''.join(random.sample(Use_for, length_for_pass))
 
-print('Sua Senha Gerada é: ')
+print('Sua Senha Aleatória é: ')
